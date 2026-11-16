@@ -2,6 +2,8 @@
 
 cf0 is a real estate agency where the agent is software. The agent is called Zero, and it lists, lets and manages homes.
 
+[![Watch the launch film: The future of real estate, Zero](https://img.youtube.com/vi/ZVABskUGqic/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZVABskUGqic)
+
 - **Owners** list a home at [cf0.ai/list](https://cf0.ai/list), or from ChatGPT or Claude. A person at cf0 checks the proof of ownership. Zero answers renters at any hour and shows the home on a live call. The owner chooses the tenant.
 - **Firms** that manage homes use Zero in WhatsApp, email and their PMS. Zero answers tenants, guests and owners, and books repairs.
 - **Renters** find a home at [cf0.ai/homes](https://cf0.ai/homes) and pay cf0 nothing.
